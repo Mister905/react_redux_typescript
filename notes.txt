@@ -1,0 +1,14 @@
+https://blog.usejournal.com/using-react-with-redux-and-typescript-c7ec48c211f6
+
+** NPM PACKAGES **
+npx create-react-app appname --typescript
+
+npm install redux react-redux --no-progress
+
+npm install --save-dev @types/react-redux --no-progress
+
+npm install axios --no-progress
+
+npm install redux-thunk --no-progress
+
+npm install --save-dev @types/redux-thunk --no-progress
