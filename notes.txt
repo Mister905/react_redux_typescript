@@ -12,3 +12,13 @@ npm install axios --no-progress
 npm install redux-thunk --no-progress
 
 npm install --save-dev @types/redux-thunk --no-progress
+
+** SET UP **
+
+Set up the Reducer(s)
+
+Set up Action(s)
+
+Set up the Store
+
+Set up index.tsx
